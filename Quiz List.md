@@ -1,32 +1,32 @@
 # HTML
 
-* [ ] Syntax
-  * [ ] Make your First Element
-  * [ ] Spot the Bug
-  * [ ] HTML Research
-  * [ ] HTML Structure part 2
-  * [ ] HTML Documents in Depth
-* [ ] Syntax Problem Set
-  * [ ] Make a Button
-  * [ ] Udacity Feedback Extension:
-    * [ ] Make all the Headers
-    * [ ] Make a List
-    * [ ] Tree to HTML
-    * [ ] Constructing Links
-    * [ ] Add an Image
-    * [ ] Figures
-* [ ] _Project: Mockup to Article_
+* [x] Syntax
+  * [x] Make your First Element
+  * [x] Spot the Bug
+  * [x] HTML Research
+  * [x] HTML Structure part 2
+  * [x] HTML Documents in Depth
+* [x] Syntax Problem Set
+  * [x] Make a Button
+  * [x] Udacity Feedback Extension:
+    * [x] Make all the Headers
+    * [x] Make a List
+    * [x] Tree to HTML
+    * [x] Constructing Links
+    * [x] Add an Image
+    * [x] Figures
+* [x] _Project: Mockup to Article_
 
 # CSS
-* [ ] Syntax
-  * [ ] CSS or HTML ?
-  * [ ] CSS Syntax
-  * [ ] Tag Selectors
-  * [ ] Using Selectors
-  * [ ] Using CSS References
-  * [ ] Using Dev Tools
-  * [ ] Units in CSS
-  * [ ] Identifying Colors
+* [x] Syntax
+  * [x] CSS or HTML ?
+  * [x] CSS Syntax
+  * [x] Tag Selectors
+  * [x] Using Selectors
+  * [x] Using CSS References
+  * [x] Using Dev Tools
+  * [x] Units in CSS
+  * [x] Identifying Colors
 * [ ] Syntax Problem Set
   * [ ] Style an Image
   * [ ] Style the Font
