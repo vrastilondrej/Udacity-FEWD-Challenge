@@ -44,29 +44,29 @@
 
 # JavaScript
 
-* [ ] What is JavaScript?
-    * [ ] JS Demo
+* [x] What is JavaScript?
+    * [x] JS Demo
 * [ ] Data Types & Variables
-    * [ ] Numbers
-    * [ ] First Expression (2-1)
-    * [ ] String Concatenation
-    * [ ] Variables
-    * [ ] Converting Temperatures (2-2)
-    * [ ] String Index
-    * [ ] Escaping Strings
-    * [ ] Comparing Strings
-    * [ ] Favorite Food (2-3)
-    * [ ] String Equality for All (2-4)
-    * [ ] All Tied Up (2-5)
-    * [ ] Yosa Buson (2-6)
-    * [ ] Facebook Post (2-7)
-    * [ ] Null, Undefined, and NaN
-    * [ ] Equality
-    * [ ] Semicolons (2-8)
-    * [ ] What's my Name? (2-9)
-    * [ ] Out to Dinner (2-10)
-    * [ ] Mad Libs (2-11)
-    * [ ] One Awesome Message (2-12)
+    * [x] Numbers
+    * [x] First Expression (2-1)
+    * [x] String Concatenation
+    * [x] Variables
+    * [x] Converting Temperatures (2-2)
+    * [x] String Index
+    * [x] Escaping Strings
+    * [x] Comparing Strings
+    * [x] Favorite Food (2-3)
+    * [x] String Equality for All (2-4)
+    * [x] All Tied Up (2-5)
+    * [x] Yosa Buson (2-6)
+    * [x] Facebook Post (2-7)
+    * [x] Null, Undefined, and NaN
+    * [x] Equality
+    * [x] Semicolons (2-8)
+    * [x] What's my Name? (2-9)
+    * [x] Out to Dinner (2-10)
+    * [x] Mad Libs (2-11)
+    * [x] One Awesome Message (2-12)
 * [ ] Conditionals
     * [ ] Flowcharts
     * [ ] Else If Statements
